@@ -1,0 +1,22 @@
+body{
+	background-color:#CCCCCC;
+}
+
+form{
+	margin: 8px, 8px, 8px, 8px;
+	width: 850px;
+	height: 352px;
+}
+
+#table{
+	padding: 0;
+	border: 0;
+	border-style: dashed;
+	background-origin: 1px;
+	background-color: #FFE5B6;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
